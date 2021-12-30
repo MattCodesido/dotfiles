@@ -29,6 +29,3 @@ Follow these steps
 ❯ cd dotfiles
 ❯ cp ./gitconfig ~/.gitconfig
 ```
-
-
-Ei que pasa que tal
